@@ -2,8 +2,8 @@ import "./globals.css";
 import type { ReactNode } from "react";
 
 export const metadata = {
-  title: "Node Farm",
-  description: "Node Farm - product demo",
+  title: "Kian Farm",
+  description: "Kian Farm - product demo",
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {
