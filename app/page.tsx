@@ -6,7 +6,7 @@ export default function HomePage() {
 
   return (
     <div className="container">
-      <h1>🌽 Node Farm 🥦</h1>
+      <h1>🌽 Kian Farm 🥦</h1>
       <div className="cards-container">
         {products.map(product => (
           <ProductCard key={product.id} product={product} />
